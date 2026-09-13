@@ -2,3 +2,6 @@
 
 ## Sobre Mí
 Estudiante de la Tecnicatura Universiaria en Programación a Distancia (TUPaD)
+
+## Habilidades Técnicas
+Python, SQL, Git
